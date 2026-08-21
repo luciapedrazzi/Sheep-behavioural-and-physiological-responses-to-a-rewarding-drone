@@ -1,2 +1,3 @@
 # Sheep-behavioural-and-physiological-responses-to-a-rewarding-drone
-Data frames, Scripts, Figures and Paper
+Paper in the main branch (manuscript + supplementary material).
+Data frames, Figures and Scripts in their respective branches.
