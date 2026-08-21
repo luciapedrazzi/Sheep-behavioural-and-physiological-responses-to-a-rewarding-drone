@@ -1,0 +1,9 @@
+# "newdata.csv" contains all tidied, interpolated data. Original trajectories.
+# "smoothed_all.csv" contains all tidied, interpolated data. Smoothed trajectories.
+# "newdata_smoothed.csv" contains all tidied, interpolated data. Original trajectories for all tags, except for Tag_14 which is smoothed.
+# "newdata_filtered.csv" contains filtered data from newdata_smoothed.csv for day level.
+# "newdata_period.csv" contains filtered data from newdata_smoothed.csv for hour level.
+# "smoothed_filtered.csv" contains filtered data from smoothed_all.csv for day level (to compute distance travelled).
+# "smoothed_period.csv" contains filtered data from smoothed_all.csv for hour level (to compute distance travelled).
+
+
