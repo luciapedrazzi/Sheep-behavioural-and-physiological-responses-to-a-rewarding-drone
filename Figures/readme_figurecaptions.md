@@ -1,4 +1,4 @@
-\### FIGURES CAPTIONS ###
+\### Figure captions ###
 
 
 
